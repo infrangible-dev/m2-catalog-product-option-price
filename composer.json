@@ -28,7 +28,7 @@
         "magento/module-tax": "~100.4.0"
     },
     "require-dev": {
-        "infrangible/phpstan-magento": "~1.1.0"
+        "infrangible/phpstan-magento": "~1.2.0"
     },
     "autoload": {
         "files": [

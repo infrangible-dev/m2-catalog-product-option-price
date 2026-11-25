@@ -1,11 +1,15 @@
 {
     "name": "infrangible/m2-catalog-product-option-price",
-    "description": "Infrangible Magento 2 Catalog Product Option Price",
+    "description": "Calculates and stores the share of custom options in each cart and order item price, including tax, so other Infrangible option modules can show and process option prices separately.",
     "type": "magento2-module",
     "version": "3.0.0",
     "license": "MIT",
     "keywords": [
-        "Magento"
+        "Magento",
+        "Magento 2",
+        "Adobe Commerce",
+        "Product options",
+        "Pricing"
     ],
     "homepage": "https://www.infrangible.dev/modules/catalog-product-option-price",
     "authors": [

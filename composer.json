@@ -2,7 +2,7 @@
     "name": "infrangible/m2-catalog-product-option-price",
     "description": "Calculates and stores the share of custom options in each cart and order item price, including tax, so other Infrangible option modules can show and process option prices separately.",
     "type": "magento2-module",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "license": "MIT",
     "keywords": [
         "Magento",
@@ -21,7 +21,7 @@
         }
     ],
     "require": {
-        "php": ">=8.2",
+        "php": ">=8.1",
         "fewedev/base": "~2.4.1",
         "infrangible/m2-foundation": "~3.0.1",
         "magento/framework": "~103.0.6",
